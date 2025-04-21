@@ -1,6 +1,24 @@
 # Let's Shake Privacy Policy
 > Last Updated: April 21, 2025
 
+[プライバシーポリシー](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_JP.md)
+
+[Datenschutzerklärung](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_DE.md)
+
+[Política de privacidad](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_ES.md)
+
+[Politique de confidentialité](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_FR.md)
+
+[Política de Privacidade](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_PO.md)
+
+[隐私协议](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_zh.md)
+
+[隱私政策](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_TW.md)
+
+[Privacy Policy](https://github.com/AlkaidWaong/AlkaidWaong/blob/5cb9b072d731d85d994719608dd7acd8e4489691/Privacy%20Policy_en.md)
+
+
+
 Welcome to Let's Shake (hereinafter referred to as "the App"). We take your privacy seriously, especially when it comes to the safety of child users. This Privacy Policy explains how we collect, use, and protect your information.
 
 ## 1. What Information Do We Collect?
